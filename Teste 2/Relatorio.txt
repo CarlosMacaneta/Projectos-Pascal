@@ -1,0 +1,112 @@
+RELATORIO 
+Data: 22/11/2019
+Hora: 10:56:24
+.........................................................
+ID: AG49
+Nome do produto: AGUA
+Categoria: BEBIDA
+Quantidade: 4
+Preco: 360.00 MZN
+.........................................................
+ID: FI72
+Nome do produto: FIVE ROSES
+Categoria: CHA
+Quantidade: 8
+Preco: 560.00 MZN
+.........................................................
+RELATORIO 
+Data: 28/11/2019
+Hora: 10:6:36
+.........................................................
+ID: AG49
+Nome do produto: AGUA
+Categoria: BEBIDA
+Quantidade: 4
+Preco: 360.00 MZN
+.........................................................
+ID: FI72
+Nome do produto: FIVE ROSES
+Categoria: CHA
+Quantidade: 8
+Preco: 560.00 MZN
+.........................................................
+RELATORIO 
+Data: 28/11/2019
+Hora: 10:7:36
+.........................................................
+ID: AG49
+Nome do produto: AGUA
+Categoria: BEBIDA
+Quantidade: 4
+Preco: 360.00 MZN
+.........................................................
+ID: FI72
+Nome do produto: FIVE ROSES
+Categoria: CHA
+Quantidade: 8
+Preco: 560.00 MZN
+.........................................................
+RELATORIO 
+Data: 1/12/2019
+Hora: 9:2:34
+.........................................................
+ID: AG49
+Nome do produto: AGUA
+Categoria: BEBIDA
+Quantidade: 4
+Preco: 360.00 MZN
+.........................................................
+ID: FI72
+Nome do produto: FIVE ROSES
+Categoria: CHA
+Quantidade: 8
+Preco: 560.00 MZN
+.........................................................
+RELATORIO 
+Data: 1/12/2019
+Hora: 9:4:13
+.........................................................
+ID: AG49
+Nome do produto: AGUA
+Categoria: BEBIDA
+Quantidade: 4
+Preco: 360.00 MZN
+.........................................................
+ID: FI72
+Nome do produto: FIVE ROSES
+Categoria: CHA
+Quantidade: 8
+Preco: 560.00 MZN
+.........................................................
+RELATORIO 
+Data: 1/12/2019
+Hora: 9:4:57
+.........................................................
+ID: AG49
+Nome do produto: AGUA
+Categoria: BEBIDA
+Quantidade: 4
+Preco: 360.00 MZN
+.........................................................
+ID: FI72
+Nome do produto: FIVE ROSES
+Categoria: CHA
+Quantidade: 8
+Preco: 560.00 MZN
+.........................................................
+RELATORIO 
+Data: 1/12/2019
+Hora: 9:8:0
+.........................................................
+ID: AG49
+Nome do produto: AGUA
+Categoria: BEBIDA
+Quantidade: 4
+Preco: 360.00 MZN
+.........................................................
+ID: FI72
+Nome do produto: FIVE ROSES
+Categoria: CHA
+Quantidade: 8
+Preco: 560.00 MZN
+.........................................................

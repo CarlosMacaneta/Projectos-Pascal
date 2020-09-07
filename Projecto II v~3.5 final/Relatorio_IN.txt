@@ -1,0 +1,279 @@
+RELATORIO DE ENTRADA DE PRODUTOS
+.........................................................
+Data: 19/10/2019
+ID: AC19
+Marca: ACER
+Categoria: COMPUTADOR
+Tipo: LAPTOP E1-570
+Quantidade: 350
+Preco: 69580.50 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP156
+Marca: HP
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 300
+Preco: 72680.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SE95
+Marca: SEAGATE
+Categoria: MEMORIA
+Tipo: HDD 1TB
+Quantidade: 156
+Preco: 2500.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SA82
+Marca: SAMSUNG
+Categoria: MEMORIA
+Tipo: RAM 4GB
+Quantidade: 200
+Preco: 1200.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: DE24
+Marca: DELL
+Categoria: TECLADO
+Tipo: US-KEYBOARD
+Quantidade: 400
+Preco: 650.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP190
+Marca: HP
+Categoria: TECLADO
+Tipo: PT-KEYBOARD
+Quantidade: 100
+Preco: 450.00 MZN
+.........................................................
+Numero de produtos: 6
+Quantidade Total: 1506
+Total: 147060.50 MZN
+RELATORIO DE ENTRADA DE PRODUTOS
+.........................................................
+Data: 19/10/2019
+ID: AC19
+Marca: ACER
+Categoria: COMPUTADOR
+Tipo: LAPTOP E1-570
+Quantidade: 350
+Preco: 69580.50 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP156
+Marca: HP
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 300
+Preco: 72680.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SE95
+Marca: SEAGATE
+Categoria: MEMORIA
+Tipo: HDD 1TB
+Quantidade: 156
+Preco: 2500.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SA82
+Marca: SAMSUNG
+Categoria: MEMORIA
+Tipo: RAM 4GB
+Quantidade: 200
+Preco: 1200.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: DE24
+Marca: DELL
+Categoria: TECLADO
+Tipo: US-KEYBOARD
+Quantidade: 400
+Preco: 650.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP190
+Marca: HP
+Categoria: TECLADO
+Tipo: PT-KEYBOARD
+Quantidade: 100
+Preco: 450.00 MZN
+.........................................................
+Data: 21/10/2019
+ID: SA197
+Marca: SAMSUNG 
+Categoria: COMPUTADOR
+Tipo: LAPTOP
+Quantidade: 200
+Preco: 20000.00 MZN
+.........................................................
+Numero de produtos: 7
+Quantidade Total: 1706
+Total: 167060.50 MZN
+.........................................................
+RELATORIO DE ENTRADA DE PRODUTOS
+.........................................................
+Data: 19/10/2019
+ID: AC19
+Marca: ACER
+Categoria: COMPUTADOR
+Tipo: LAPTOP E1-570
+Quantidade: 350
+Preco: 69580.50 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP156
+Marca: HP
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 300
+Preco: 72680.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SE95
+Marca: SEAGATE
+Categoria: MEMORIA
+Tipo: HDD 1TB
+Quantidade: 156
+Preco: 2500.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SA82
+Marca: SAMSUNG
+Categoria: MEMORIA
+Tipo: RAM 4GB
+Quantidade: 200
+Preco: 1200.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: DE24
+Marca: DELL
+Categoria: TECLADO
+Tipo: US-KEYBOARD
+Quantidade: 400
+Preco: 650.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP190
+Marca: HP
+Categoria: TECLADO
+Tipo: PT-KEYBOARD
+Quantidade: 100
+Preco: 450.00 MZN
+.........................................................
+Data: 21/10/2019
+ID: SA197
+Marca: SAMSUNG 
+Categoria: COMPUTADOR
+Tipo: LAPTOP
+Quantidade: 200
+Preco: 20000.00 MZN
+.........................................................
+Data: 21/10/2019
+ID: DE128
+Marca: DELL
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 20
+Preco: 80000.00 MZN
+.........................................................
+Data: 21/10/2019
+ID: WD194
+Marca: WD
+Categoria: MEMORIA
+Tipo: HDD
+Quantidade: 49
+Preco: 2000.00 MZN
+.........................................................
+Numero de produtos: 9
+Quantidade Total: 1775
+Total: 249060.50 MZN
+.........................................................
+RELATORIO DE ENTRADA DE PRODUTOS
+.........................................................
+Data: 19/10/2019
+ID: AC19
+Marca: ACER
+Categoria: COMPUTADOR
+Tipo: LAPTOP E1-570
+Quantidade: 350
+Preco: 69580.50 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP156
+Marca: HP
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 300
+Preco: 72680.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SE95
+Marca: SEAGATE
+Categoria: MEMORIA
+Tipo: HDD 1TB
+Quantidade: 156
+Preco: 2500.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SA82
+Marca: SAMSUNG
+Categoria: MEMORIA
+Tipo: RAM 4GB
+Quantidade: 200
+Preco: 1200.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: DE24
+Marca: DELL
+Categoria: TECLADO
+Tipo: US-KEYBOARD
+Quantidade: 400
+Preco: 650.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP190
+Marca: HP
+Categoria: TECLADO
+Tipo: PT-KEYBOARD
+Quantidade: 100
+Preco: 450.00 MZN
+.........................................................
+Data: 21/10/2019
+ID: SA197
+Marca: SAMSUNG 
+Categoria: COMPUTADOR
+Tipo: LAPTOP
+Quantidade: 200
+Preco: 20000.00 MZN
+.........................................................
+Data: 21/10/2019
+ID: DE128
+Marca: DELL
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 20
+Preco: 80000.00 MZN
+.........................................................
+Data: 21/10/2019
+ID: WD194
+Marca: WD
+Categoria: MEMORIA
+Tipo: HDD
+Quantidade: 49
+Preco: 2000.00 MZN
+.........................................................
+Data: 22/10/2019
+ID: DE185
+Marca: DELL
+Categoria: COMPUTADOR
+Tipo: LAPTOP
+Quantidade: 50
+Preco: 20000.00 MZN
+.........................................................
+Numero de produtos: 10
+Quantidade Total: 1825
+Total: 269060.50 MZN
+.........................................................

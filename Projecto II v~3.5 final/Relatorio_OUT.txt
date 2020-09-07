@@ -1,0 +1,131 @@
+RELATORIO DE VENDA DE PRODUTOS
+.........................................................
+Data: 19/10/2019
+ID: AC19
+Marca: ACER
+Categoria: COMPUTADOR
+Tipo: LAPTOP E1-570
+Quantidade: 5
+Preco: 347902.50 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP156
+Marca: HP
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 1
+Preco: 72680.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SE95
+Marca: SEAGATE
+Categoria: MEMORIA
+Tipo: HDD 1TB
+Quantidade: 1
+Preco: 2500.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: DE24
+Marca: DELL
+Categoria: TECLADO
+Tipo: US-KEYBOARD
+Quantidade: 2
+Preco: 1300.00 MZN
+.........................................................
+Numero de produtos vendidos: 4
+Quantidade Total: 9
+Rendimento Total: 424382.50 MZN
+=========================================================
+STOCK
+.........................................................
+Numero de produtos restante: 6
+Quantidade restante: 1497
+Capital total: 147060.50
+RELATORIO DE VENDA DE PRODUTOS
+.........................................................
+Data: 19/10/2019
+ID: AC19
+Marca: ACER
+Categoria: COMPUTADOR
+Tipo: LAPTOP E1-570
+Quantidade: 5
+Preco: 347902.50 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP156
+Marca: HP
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 1
+Preco: 72680.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SE95
+Marca: SEAGATE
+Categoria: MEMORIA
+Tipo: HDD 1TB
+Quantidade: 1
+Preco: 2500.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: DE24
+Marca: DELL
+Categoria: TECLADO
+Tipo: US-KEYBOARD
+Quantidade: 2
+Preco: 1300.00 MZN
+.........................................................
+Numero de produtos vendidos: 4
+Quantidade Total: 9
+Rendimento Total: 424382.50 MZN
+=========================================================
+STOCK
+.........................................................
+Numero de produtos restante: 7
+Quantidade restante: 1697
+Capital total: 167060.50
+.........................................................
+RELATORIO DE VENDA DE PRODUTOS
+.........................................................
+Data: 22/10/2019
+ID: AC19
+Marca: ACER
+Categoria: COMPUTADOR
+Tipo: LAPTOP E1-570
+Quantidade: 45
+Preco: 3131122.50 MZN
+.........................................................
+Data: 19/10/2019
+ID: HP156
+Marca: HP
+Categoria: COMPUTADOR
+Tipo: DESKTOP
+Quantidade: 1
+Preco: 72680.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: SE95
+Marca: SEAGATE
+Categoria: MEMORIA
+Tipo: HDD 1TB
+Quantidade: 1
+Preco: 2500.00 MZN
+.........................................................
+Data: 19/10/2019
+ID: DE24
+Marca: DELL
+Categoria: TECLADO
+Tipo: US-KEYBOARD
+Quantidade: 2
+Preco: 1300.00 MZN
+.........................................................
+Numero de produtos vendidos: 4
+Quantidade Total: 49
+Rendimento Total: 3207602.50 MZN
+=========================================================
+STOCK
+.........................................................
+Numero de produtos restante: 10
+Quantidade restante: 1838
+Capital total: 269060.50
+.........................................................
